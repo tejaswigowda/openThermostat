@@ -4,7 +4,7 @@
 ## Parts (basic version)
 
 1. $10.41 https://www.aliexpress.com/item/32991442463.html
-  <img src='https://ae01.alicdn.com/kf/HLB1lGU8fDZmx1VjSZFGq6yx2XXa2/Ttgo-To-Esp8266-Oled-Sh1106-1-3Inch-Weather-Station-Wifi-Meteo-Module.jpg'>
+  <img src='https://ae01.alicdn.com/kf/HLB1oblrM6DpK1RjSZFrq6y78VXaC/Ttgo-To-Esp8266-Oled-Sh1106-1-3Inch-Weather-Station-Wifi-Meteo-Module.jpg' width="100%" height=200>
 
 2. $2.25 https://www.aliexpress.com/item/32964297852.html ($.75*3)
 
